@@ -27,4 +27,7 @@ coverage
 *.sln
 *.sw?
 
+# environment variable configuration
+.env
+
 *.tsbuildinfo
